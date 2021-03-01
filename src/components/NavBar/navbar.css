@@ -4,6 +4,7 @@ body {
 .navbar {
   background-color: #ffffff;
   margin: auto;
+  margin-bottom: 6em;
 }
 
 .container {
